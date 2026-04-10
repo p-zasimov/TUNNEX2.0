@@ -7,6 +7,8 @@ TUNNEX2.0
 
 Python version of TUNNEX for computing WKB tunneling rates.
 
+Documentation coming soon.
+
 ### Copyright
 
 Copyright (c) 2026, Pavel Zasimov
