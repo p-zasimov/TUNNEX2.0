@@ -17,6 +17,7 @@ def find_turning_points(level_energy: float, potential: object) -> tuple:
     # are positive, this error means the problem with your data
 
     if level_energy < energy_product:
+        func_target = lambda x: potential(x) - level_energy
         turning_point_left = brentq(
             func_target, potential.irc_x_min, potential.irc_x_ts
         )

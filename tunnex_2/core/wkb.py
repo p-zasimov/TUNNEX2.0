@@ -6,7 +6,7 @@ from scipy.integrate import quad
 # --- Defining the function to compute the WKB-integral ---
 def compute_wkb(turning_points: object, level: float, potential: object) -> float:
     if turning_points.tunneling_regime != turning_points.tunneling_regime.NORMAL:
-        if turning_points.tunneling_regime.name == "Over the barrier":
+        if turning_points.tunneling_regime == turning_points.tunneling_regime.OVER_BARRIER:
             return 0.0  # The energy level is over the barrier, thus, returning zero
         return (
             np.inf
