@@ -1,0 +1,943 @@
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-26 11:09:47 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-26 11:09:47 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:09:47 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-26 11:11:07 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-26 11:11:07 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:11:07 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:15:02 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-26 11:22:03 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-26 11:22:03 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:22:03 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-26 11:58:00 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-26 11:58:00 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-26 11:58:00 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 12:28:52 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:23:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:25 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 13:46:26 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:07 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:08 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:11 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:00:12 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:09:44 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:34:48 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:34:48 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:34:48 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:34:48 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:34:48 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:34:48 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:34:48 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:34:48 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:37:02 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:37:02 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:37:02 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:37:02 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:37:02 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:37:03 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:37:03 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:37:03 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:38:47 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:38:47 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:38:47 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:38:47 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:38:47 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:38:47 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:44:29 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:44:29 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:44:29 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:44:29 [INFO] The energy of reactant is thermoneutral (0.0 kJ mol-1).
+2026-09-26 14:44:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:44:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:44:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:01 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 14:54:02 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:24:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:37:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:37:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:37:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:37:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:39:19 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:39:19 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:39:19 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:39:19 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:39:19 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:42:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:46:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 15:47:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:00:39 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:23 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:53 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:01:54 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 16:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-26 19:58:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:47:43 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-27 22:50:26 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-27 22:50:26 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:50:26 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-27 22:56:28 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-27 22:56:28 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:56:28 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-27 22:57:52 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-27 22:57:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:57:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-27 22:59:52 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-27 22:59:52 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 22:59:52 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-27 23:05:23 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-27 23:05:23 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-27 23:05:23 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:33 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:05:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:07 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:08:08 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:11:05 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:13:29 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:49 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:14:50 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:17 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:16:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:17:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:22 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:18:58 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-27 23:19:10 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:11:32 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:26 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:27 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:12:55 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:21:36 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.217. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 187.74 cm-1. Correlation weights sum = 1.217. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.207. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 180.99 cm-1. Correlation weights sum = 1.207. Please check the frequency.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 200.00 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.386. Please check your data.
+2026-09-28 21:24:31 [INFO] For reactant the attempt frequency is 208.40 cm-1. Correlation weights sum = 1.386. Please check the frequency.
+2026-09-28 21:24:31 [WARNING] Expected sum of correlation factors of 1.000. Got 1.142. Please check your data.
+2026-09-28 21:24:31 [INFO] For product the attempt frequency is 149.50 cm-1. Correlation weights sum = 1.142. Please check the frequency.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245044 0.69164956 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4.8 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [3.2 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1.6 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [1. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [2. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.15245033 0.61479967 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [6.4 0.  0. ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [4. 0. 0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [16.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (linear geometry (rank 1)), singular values: [40.  0.  0.]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.26769537 0.67627963 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.52123444 0.81153556 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:15 [WARNING] Degenerate rotation problem (planar geometry (rank 2)), singular values: [1.79782252 0.95908748 0.        ]. Check 'test.log' if this is unexpected.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-28 21:30:41 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:34 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 11:46:35 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:42:56 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.
+2026-09-30 16:45:31 [INFO] Please note that the forward reaction is endothermic by 26.3 kJ mol-1.

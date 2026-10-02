@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tunnex_2"
+version = "0.8.0"
+description = "TUNNEX 2.0"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "scipy",
+]
+
+[project.scripts]
+tunnex_2 = "tunnex_2.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
