@@ -1,0 +1,123 @@
+2026-10-02 12:33:01 [INFO] ================================================================================
+2026-10-02 12:33:01 [INFO] Starting calculation: 0.txt
+2026-10-02 12:33:01 [INFO] ================================================================================
+2026-10-02 12:33:01 [WARNING] Insufficient neighboring ZPVE data points to estimate MAD for 2 point(s) (IRC values: -4.000, 4.000). Please check your data for outliers manually.
+2026-10-02 12:33:01 [WARNING] The deviation between the reagent[IRC] and submitted reagent's energy is 100.0%. More detailed IRC computations in the region of the reagent may be necessary.
+2026-10-02 12:33:01 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 1.25396e-06
+2026-10-02 12:33:01 [WARNING] Integration problem occurred: The occurrence of roundoff error is detected, which prevents 
+  the requested tolerance from being achieved.  The error may be 
+  underestimated. | estimated error: 1.01175e-05
+2026-10-02 12:33:01 [WARNING] Integration problem occurred: The occurrence of roundoff error is detected, which prevents 
+  the requested tolerance from being achieved.  The error may be 
+  underestimated. | estimated error: 1.02162e-06
+2026-10-02 12:33:01 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 8.18113e-05
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 3.13177e-06
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 5.85251e-06
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 0.000391802
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 9.8231e-06
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 3.61559e-05
+2026-10-02 12:33:02 [WARNING] Integration problem occurred: The occurrence of roundoff error is detected, which prevents 
+  the requested tolerance from being achieved.  The error may be 
+  underestimated. | estimated error: 1.01921e-05
+2026-10-02 12:33:02 [INFO] Results were saved to: D:\python_projects\tunnex_2\tunnex_2_v0p8p1\0_tunnex_2.out.
+2026-10-02 13:12:55 [INFO] ================================================================================
+2026-10-02 13:12:55 [INFO] Starting calculation: .\0_test_gaussian\ch3coh.gjf
+2026-10-02 13:12:55 [INFO] ================================================================================
+2026-10-02 13:12:55 [WARNING] A potential ZPVE outlier was found at IRC=2.296. Outlier value = 0.0485. Please check your data.
+2026-10-02 13:12:55 [INFO] Please note that the forward reaction is endothermic by 213.5 kJ mol-1.
+2026-10-02 13:12:55 [INFO] For reactant the attempt frequency is 2435.53 cm-1. Correlation weights sum = 0.993. Please check the frequency.
+2026-10-02 13:12:55 [INFO] For product the attempt frequency is 1713.07 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-10-02 13:12:55 [WARNING] A potential ZPVE outlier was found at IRC=2.296. Outlier value = 0.0485. Please check your data.
+2026-10-02 13:12:55 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 3.36505e-05
+2026-10-02 13:12:55 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 2.20806e-05
+2026-10-02 13:12:56 [INFO] Results were saved to: D:\python_projects\tunnex_2\tunnex_2_v0p8p1\0_test_gaussian\ch3coh_forward_tunnex_2.out.
+2026-10-02 13:12:56 [WARNING] A potential ZPVE outlier was found at IRC=-2.296. Outlier value = 0.0485. Please check your data.
+2026-10-02 13:12:56 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 9.49437e-05
+2026-10-02 13:12:56 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 1.64841e-05
+2026-10-02 13:12:56 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 2.2997e-06
+2026-10-02 13:12:56 [INFO] Results were saved to: D:\python_projects\tunnex_2\tunnex_2_v0p8p1\0_test_gaussian\ch3coh_backward_tunnex_2.out.
+2026-10-02 13:13:07 [INFO] ================================================================================
+2026-10-02 13:13:07 [INFO] Starting calculation: .\0_test_orca\ch3coh.inp
+2026-10-02 13:13:07 [INFO] ================================================================================
+2026-10-02 13:13:14 [INFO] ================================================================================
+2026-10-02 13:13:14 [INFO] Starting calculation: .\0_test_orca\ch3coh.inp
+2026-10-02 13:13:14 [INFO] ================================================================================
+2026-10-02 13:13:14 [INFO] Please note that the forward reaction is endothermic by 213.3 kJ mol-1.
+2026-10-02 13:13:14 [INFO] For reactant the attempt frequency is 2083.49 cm-1. Correlation weights sum = 0.999. Please check the frequency.
+2026-10-02 13:13:14 [INFO] For product the attempt frequency is 1387.33 cm-1. Correlation weights sum = 1.000. Please check the frequency.
+2026-10-02 13:13:14 [WARNING] Insufficient neighboring ZPVE data points to estimate MAD for 2 point(s) (IRC values: -3.394, 2.248). Please check your data for outliers manually.
+2026-10-02 13:13:14 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 1.40429e-05
+2026-10-02 13:13:14 [INFO] Results were saved to: D:\python_projects\tunnex_2\tunnex_2_v0p8p1\0_test_orca\ch3coh_forward_tunnex_2.out.
+2026-10-02 13:13:14 [WARNING] Insufficient neighboring ZPVE data points to estimate MAD for 2 point(s) (IRC values: -2.248, 3.394). Please check your data for outliers manually.
+2026-10-02 13:13:14 [WARNING] Integration problem occurred: The maximum number of subdivisions (50) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used. | estimated error: 3.92015e-06
+2026-10-02 13:13:15 [INFO] Results were saved to: D:\python_projects\tunnex_2\tunnex_2_v0p8p1\0_test_orca\ch3coh_backward_tunnex_2.out.
