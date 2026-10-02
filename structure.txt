@@ -1,0 +1,89 @@
+tunnex_2_v0p7/
+│
+│
+│
+├── data/
+│   ├── look_and_say.dat
+│   ├── README.md
+│   └── WKB_100927b_cypro13CH_AE-CCSD_T_pVTZ_B3PW91_cc-pVTZ_tight_input.txt
+│
+├── devtools/
+│   ├── README.md
+│   ├── conda-envs/
+│   │   └── test_env.yaml
+│   └── scripts/
+│       └── create_conda_env.py
+│
+├── docs/
+│   ├── api.rst
+│   ├── developer_guide.rst
+│   ├── getting_started.rst
+│   ├── index.rst
+│   ├── make.bat
+│   ├── Makefile
+│   ├── README.md
+│   ├── requirements.yaml
+│   ├── user_guide.rst
+│   ├── _static/
+│   │   └── README.md
+│   └── _templates/
+│       └── README.md
+│
+├── tests/
+│   ├── __init__.py
+│   ├── input.py
+│   ├── input.out
+│   └── test_tunnex_2.py
+│
+├── tunnex_2/
+│   ├── __init__.py
+│   ├── __main__.py
+│   ├── _version.py
+│   ├── cli.py
+│   ├── main.py
+│   │
+│   ├── irc_computations/
+│   │   ├── module_eckart_potential.py
+│   │   ├── module_irc_computations.py
+│   │   ├── ancillary_functions/
+│   │   │   ├── attempt_freq_calc.py
+│   │   │   ├── eckart_potential_functions.py
+│   │   │   ├── interface.py
+│   │   │   ├── middle_level_functions.py
+│   │   │   └── tunnex_input.py
+│   │   ├── constants_and_dataclasses/
+│   │   │   ├── constants_and_settings.py
+│   │   │   └── dataclasses.py
+│   │   ├── gaussian/
+│   │   │   ├── file_parsing.py
+│   │   │   ├── file_writing.py
+│   │   │   └── gauss_patterns.py
+│   │   └── orca/
+│   │       ├── file_parsing.py
+│   │       ├── file_writing.py
+│   │       └── orca_patterns.py
+│   │
+│   └── qmt_computations/
+│       ├── qmt_computations_module.py
+│       ├── qmt_computations_pipeline.py
+│       ├── constants_and_models/
+│       │   ├── constants.py
+│       │   ├── input.py
+│       │   └── results.py
+│       ├── core/
+│       │   ├── kinetics.py
+│       │   ├── potential.py
+│       │   ├── turning_points.py
+│       │   └── wkb.py
+│       └── data_io/
+│           ├── reader.py
+│           └── writer.py
+│
+├── CODE_OF_CONDUCT.md
+├── command_settings.txt
+├── LICENSE
+├── MANIFEST.in
+├── pyproject.toml
+├── README.md
+├── setup.cfg
+└── structure.txt
